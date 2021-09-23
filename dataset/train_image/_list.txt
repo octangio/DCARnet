@@ -1,0 +1,4 @@
+./dataset/train_image/image_0001.png
+./dataset/train_image/image_0002.png
+./dataset/train_image/image_0003.png
+./dataset/train_image/image_0004.png

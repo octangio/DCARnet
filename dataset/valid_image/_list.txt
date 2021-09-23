@@ -1,0 +1,2 @@
+./dataset/valid_image/image_0001.png
+./dataset/valid_image/image_0002.png
