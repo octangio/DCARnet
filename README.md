@@ -34,8 +34,7 @@ cd DCARnet
 
 - prepare data
 
-  The image is normalized to a range of 0 to 255 
-  The data set folder should be like the following structure.
+  The image is normalized to a range of 0 to 255. The data set folder should be like the following structure.
 
     ```tex
     dataset
