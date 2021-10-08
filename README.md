@@ -23,7 +23,7 @@ git clone git@github.com:octangio/DCARnet.git
 cd DCARnet
 ```
 
-### install packages
+### Install packages
 
   ```bash
   pip install -r requirements.txt
