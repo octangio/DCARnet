@@ -28,13 +28,13 @@ cd DCARnet
   ```bash
   pip install -r requirements.txt
   ```
-  The software version we used is DCARnet_1.0.
+  The code version we used in the paper is DCARnet-1.0.
 
 ### Train model on your own data
 
 - prepare data
 
-  The image is normalized to a range of 0 to 255. The data set folder should be like the following structure.
+  The en face angiograms have normalized the range of decorrelation value (SSADA) from (0.02, 0.3) to the range of (0, 255). The data set folder should be like the following structure.
 
     ```tex
     dataset
