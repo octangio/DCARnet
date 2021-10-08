@@ -28,12 +28,13 @@ cd DCARnet
   ```bash
   pip install -r requirements.txt
   ```
-
+  The software version we used is DCARnet_1.0.
 
 ### Train model on your own data
 
 - prepare data
-  
+
+  The image normalization range from 0 to 255.  
   The data set folder should be like the following structure.
 
     ```tex
