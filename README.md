@@ -73,4 +73,22 @@ Then you need to generate the path list of image and label.
   
   #### Figure 3. DCARnet's outputs on 6x6-mm ICP and DCP angiograms. 
   ![img](./Figures/output_6mm.jpg)
+  
+## Citation
+
+Please cite this paper if you use any component of the software.
+
+
+```tex
+@article{gao2021reconstruction,
+  title={An open-source deep learning network for the reconstruction of high-resolution OCT angiograms of retinal intermediate and deep capillary plexuses},
+  author={Gao, Min and Hormel, Tristan T and Wang, Jie and Guo, Yukun and Bailey, Steven and Hwang, Thomas S and Jia, Yali},
+  journal={Investigative Ophthalmology \& Visual Science},
+  volume={62},
+  number={8},
+  pages={1032--1032},
+  year={2021},
+  publisher={The Association for Research in Vision and Ophthalmology}
+}
+```
     
