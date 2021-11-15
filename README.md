@@ -1,10 +1,15 @@
 # An open-source deep learning network for the reconstruction of high-resolution OCT angiograms of retinal intermediate and deep capillary plexuses  
 
-[ [**OCTAngio Home Page**](https://octangio.github.io/) ] 
+[ [**OCTAngio Home Page**](https://octangio.github.io/) ] [ [**Paper**](https://tvst.arvojournals.org/article.aspx?articleid=2778068)]
 
 By [**Min Gao**](https://scholar.google.com/citations?user=T1vzVnYAAAAJ&hl=en),  [**Tristan T. Hormel**](https://scholar.google.com/citations?user=jdD1rGwAAAAJ&hl=en), [**Jie Wang**](https://scholar.google.com/citations?user=DoIwLN0AAAAJ&hl=en), [**Yukun Guo**](https://scholar.google.com/citations?user=BCrQPWUAAAAJ&hl=en&oi=sra), [**Steven T. Bailey**](https://www.researchgate.net/profile/Steven-Bailey-10), [**Thomas S. Hwang**](https://www.researchgate.net/profile/Thomas-Hwang-2), [**Yali Jia**](https://scholar.google.com/citations?user=hfBY5K8AAAAJ&hl=en&oi=sra)
 
-This repo is the official implementation of "An open-source deep learning network for the reconstruction of high-resolution OCT angiograms of retinal intermediate and deep capillary plexuses".
+This repo is the official implementation of "[**An open-source deep learning network for the reconstruction of high-resolution OCT angiograms of retinal intermediate and deep capillary plexuses**](https://tvst.arvojournals.org/article.aspx?articleid=2778068)".
+
+This software is copyrighted and may only be used for academic research.
+
+Please cite this paper if you use any component of the software.
+Gao, Min, Tristan T. Hormel, Jie Wang, Yukun Guo, Steven T. Bailey, Thomas S. Hwang, and Yali Jia. "An Open-Source Deep Learning Network for Reconstruction of High-Resolution OCT Angiograms of Retinal Intermediate and Deep Capillary Plexuses." Translational Vision Science & Technology 10, no. 13 (2021): 13-13.
 
 ## Introduction
 
