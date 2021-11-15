@@ -9,6 +9,7 @@ This repo is the official implementation of "[**An open-source deep learning net
 This software is copyrighted and may only be used for academic research.
 
 Please cite this paper if you use any component of the software.
+
 Gao, Min, Tristan T. Hormel, Jie Wang, Yukun Guo, Steven T. Bailey, Thomas S. Hwang, and Yali Jia. "An Open-Source Deep Learning Network for Reconstruction of High-Resolution OCT Angiograms of Retinal Intermediate and Deep Capillary Plexuses." Translational Vision Science & Technology 10, no. 13 (2021): 13-13.
 
 ## Introduction
