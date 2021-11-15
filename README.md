@@ -9,9 +9,9 @@ This repo is the official implementation of "[**An open-source deep learning net
 This software is copyrighted and may only be used for academic research.
 
 Please cite this paper if you use any component of the software.
-```bash
+
 Gao, Min, Tristan T. Hormel, Jie Wang, Yukun Guo, Steven T. Bailey, Thomas S. Hwang, and Yali Jia. "An Open-Source Deep Learning Network for Reconstruction of High-Resolution OCT Angiograms of Retinal Intermediate and Deep Capillary Plexuses." Translational Vision Science & Technology 10, no. 13 (2021): 13-13.
-```
+
 ## Introduction
 
 We proposed a deep-learning based method, which receives inputs from registered 3×3-mm ICP and DCP angiograms with proper sampling density as the ground truth reference to reconstruct 6×6-mm high-resolution ICP and DCP en face OCTA. We applied the same network on 3×3-mm angiograms to enhance these images further. We evaluated the reconstructed 3×3- and 6×6-mm angiograms based on vessel connectivity, Weber contrast, false flow signal (flow signal erroneously generated from background), and the noise intensity in the foveal avascular zone (FAZ). Compared to the originals, the DCARnet-enhanced 6×6-mm angiograms had significantly reduced noise intensity, improved vascular connectivity, enhanced Weber contrast, without generating false flow signal when noise intensity lower than 650. The DCARnet-enhanced 3×3-mm angiograms also reduced noise, improved connectivity, and enhanced Weber contrast in 3×3-mm ICP and DCP angiograms. In addition, DCARnet preserved the appearance of the dilated vessels in the reconstructed angiograms in diabetic eyes.
