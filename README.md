@@ -89,7 +89,7 @@ Please cite this paper if you use any component of the software.
 @article{gao2021reconstruction,
   title={An open-source deep learning network for the reconstruction of high-resolution OCT angiograms of retinal intermediate and deep capillary plexuses},
   author={Gao, Min and Hormel, Tristan T and Wang, Jie and Guo, Yukun and Bailey, Steven and Hwang, Thomas S and Jia, Yali},
-  journal={Investigative Ophthalmology \& Visual Science},
+  journal={Investigative Ophthalmology & Visual Science},
   volume={62},
   number={8},
   pages={1032--1032},
