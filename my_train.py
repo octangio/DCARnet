@@ -10,6 +10,8 @@ import os
 import argparse
 from my_loss import MSE, ssim_loss, ssim, total_loss, contrast, PSNR
 
+# test
+
 os.environ['CUDA_VISIBLE_DEVICES'] = '0'
 
 parser = argparse.ArgumentParser(description='tensorflow implementation of HARNet')
